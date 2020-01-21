@@ -1,0 +1,44 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20pt;
+    /* line-height: 35pt; */
+    margin: 25pt;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 90pt;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50pt;
+    font-weight: 900;
+    /* vertical-align: baseline; */
+}
+
+.exponent {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30pt;
+    vertical-align: top;
+}
+
+.margin{
+    padding-left: 20pt;
+}
+
+.row {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.menu {
+    vertical-align: bottom;
+}
+
+.align-items-bottom {
+    position: absolute;
+/*    width: 498px; */
+    bottom: 20pt; /*This is the part that glues it to the bottom*/
+    /*border: 1px solid #000;*/
+}
